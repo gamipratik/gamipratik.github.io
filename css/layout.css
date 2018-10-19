@@ -394,9 +394,10 @@ ul#nav li.active a { color: #11ABB0; }
 }
 
 .portfolio-item li {
-  font: 13px/24px montserrat-bold, sans-serif;
-  color: #777777;
+  font: 12px/24px montserrat, sans-serif;
+  color: #444444;
   margin-left: 7%;
+  margin-bottom: 3px;
 }
 /* on hover */
 .portfolio-item:hover .item-wrap { background-color: #0f9095; }
