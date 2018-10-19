@@ -393,6 +393,11 @@ ul#nav li.active a { color: #11ABB0; }
    margin-left: 7%;
 }
 
+.portfolio-item li {
+  font: 13px/24px montserrat-bold, sans-serif;
+  color: #777777;
+  margin-left: 7%;
+}
 /* on hover */
 .portfolio-item:hover .item-wrap { background-color: #0f9095; }
 .portfolio-item:hover h5 a { color: #fff !important; }
